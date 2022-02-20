@@ -1,6 +1,8 @@
 # EmperorHassy GameDb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+This is an Angular Application where I used Public API to create an interesting game database website. The technologies used are Angular, JavaScript, SCSS, and TypeScript.
+
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
 #### This project is hosted on netlify and can be accessed here [EMPERORHASSY ANGULAR GAME PROJECT](https://emperorhassy-angular-game.netlify.app/)
 
